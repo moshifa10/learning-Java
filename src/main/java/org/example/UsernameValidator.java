@@ -10,7 +10,7 @@ public class UsernameValidator {
         //If it does, print "Invalid username".
 
         String username = "Njabulo ";
-        String check = (username.contains(" "))? "Valid username" : "Invalid username";
+        String check = (username.contains(" "))? "Invalid username" : "Valid username";
 
         System.out.println(check);
     }
