@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6cb2b9b0-7e6f-4d53-997c-6de332f3ba07" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Case.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EmailDetector.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FileTypeChecker.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NameComparison.java" afterDir="false" />
@@ -46,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Case.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PasswordLengthValidator.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -57,7 +59,20 @@
     "onboarding.tips.debug.path": "/home/wtc/Desktop/learning-java/string-methods/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PasswordLengthValidator">
+  <component name="RunManager" selected="Application.Case">
+    <configuration name="Case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Case" />
+      <module name="string-methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="string-methods" />
@@ -169,6 +184,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Case" />
         <item itemvalue="Application.PasswordLengthValidator" />
         <item itemvalue="Application.Main" />
       </list>
