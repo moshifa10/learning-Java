@@ -11,6 +11,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FileTypeChecker.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NameComparison.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PasswordStrengthChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Positive.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SmallestIntegerFinder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SubstringDetection.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WordCounter.java" afterDir="false" />
