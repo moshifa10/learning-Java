@@ -10,11 +10,14 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EmailDetector.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FileTypeChecker.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NameComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UsernameValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PasswordStrengthChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SmallestIntegerFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SubstringDetection.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WordCounter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/temperature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CaseChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CaseChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UsernameValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UsernameValidator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/string-methods/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/string-methods/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/string-methods/.idea/encodings.xml" beforeDir="false" />
@@ -52,6 +55,7 @@
     "Application.Case.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PasswordLengthValidator.executor": "Run",
+    "Application.SmallestIntegerFinder.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -61,7 +65,7 @@
     "onboarding.tips.debug.path": "/home/wtc/Desktop/learning-java/string-methods/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Case">
+  <component name="RunManager" selected="Application.SmallestIntegerFinder">
     <configuration name="Case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Case" />
       <module name="string-methods" />
@@ -90,6 +94,19 @@
     </configuration>
     <configuration name="PasswordLengthValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.PasswordLengthValidator" />
+      <module name="string-methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestIntegerFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SmallestIntegerFinder" />
       <module name="string-methods" />
       <extension name="coverage">
         <pattern>
@@ -186,6 +203,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmallestIntegerFinder" />
         <item itemvalue="Application.Case" />
         <item itemvalue="Application.PasswordLengthValidator" />
         <item itemvalue="Application.Main" />
