@@ -5,29 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cb2b9b0-7e6f-4d53-997c-6de332f3ba07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EmailDetector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FileTypeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NameComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PasswordStrengthChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Positive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SmallestIntegerFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SubstringDetection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WordCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/temperature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CaseChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CaseChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UsernameValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UsernameValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/matrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/matrices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string-methods/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string-methods/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string-methods/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string-methods/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string-methods/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string-methods/src/main/java/org/example/GreetingChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string-methods/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string-methods/src/main/java/org/example/PasswordLengthValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ArrayPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CountEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CountEvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/EvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/EvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FindMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FindMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PrintNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PrintNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RemoveDublicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RemoveDublicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ReverseOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SearchValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SearchValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SecondLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SecondLargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/food.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,23 +42,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayPrint.executor": "Run",
     "Application.Case.executor": "Run",
+    "Application.CountEvenNumbers.executor": "Run",
+    "Application.EvenNumbers.executor": "Run",
+    "Application.FindMax.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PasswordLengthValidator.executor": "Run",
+    "Application.PrintNumbers.executor": "Run",
+    "Application.RemoveDublicates.executor": "Run",
+    "Application.ReverseOrder.executor": "Run",
+    "Application.SearchValue.executor": "Run",
+    "Application.SecondLargestNumber.executor": "Run",
     "Application.SmallestIntegerFinder.executor": "Run",
     "Application.matrices.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "SHELLCHECK.PATH": "/home/wtc/.local/share/JetBrains/IntelliJIdea2025.3/Shell Script/shellcheck",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHELLCHECK.PATH": "C:\\Users\\bumos\\AppData\\Roaming\\JetBrains\\IntelliJIdea2025.3\\plugins\\Shell Script\\shellcheck.exe",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/home/wtc/Desktop/learning-java/string-methods/src/main/java/org/example/Main.java"
+    "last_opened_file_path": "C:/Users/bumos/OneDrive/Desktop/Njabs/learning-Java",
+    "onboarding.tips.debug.path": "/home/wtc/Desktop/learning-java/string-methods/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.matrices">
-    <configuration name="Case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Case" />
+  <component name="RunManager">
+    <configuration name="ArrayPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ArrayPrint" />
       <module name="string-methods" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <configuration name="EvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.EvenNumbers" />
       <module name="string-methods" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordLengthValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.PasswordLengthValidator" />
+    <configuration name="FindMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FindMax" />
       <module name="string-methods" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestIntegerFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.SmallestIntegerFinder" />
+    <configuration name="PrintNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.PrintNumbers" />
       <module name="string-methods" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="matrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.matrices" />
+    <configuration name="SearchValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SearchValue" />
       <module name="string-methods" />
       <extension name="coverage">
         <pattern>
@@ -219,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.matrices" />
-        <item itemvalue="Application.SmallestIntegerFinder" />
-        <item itemvalue="Application.Case" />
-        <item itemvalue="Application.PasswordLengthValidator" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SearchValue" />
+        <item itemvalue="Application.FindMax" />
+        <item itemvalue="Application.ArrayPrint" />
+        <item itemvalue="Application.EvenNumbers" />
+        <item itemvalue="Application.PrintNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +233,7 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
       </set>
     </attachedChunks>
   </component>
@@ -241,7 +244,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773645799615</updated>
+      <workItem from="1773794122159" duration="8032000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
