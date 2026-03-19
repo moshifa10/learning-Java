@@ -6,16 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6cb2b9b0-7e6f-4d53-997c-6de332f3ba07" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ArrayPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ArrayPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CountEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CountEvenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/EvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/EvenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FindMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FindMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PrintNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PrintNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RemoveDublicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RemoveDublicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ReverseOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SearchValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SearchValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SecondLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SecondLargestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/food.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +234,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773645799615</updated>
-      <workItem from="1773794122159" duration="8032000" />
+      <workItem from="1773794122159" duration="13062000" />
     </task>
     <servers />
   </component>
